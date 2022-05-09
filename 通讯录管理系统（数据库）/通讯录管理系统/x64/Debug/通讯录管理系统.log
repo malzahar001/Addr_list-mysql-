@@ -1,0 +1,12 @@
+﻿  database.cpp
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(92,12): warning C4101: “row”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(91,13): warning C4101: “res”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(120,7): warning C4101: “sql”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(191,12): warning C4101: “row”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(190,13): warning C4101: “res”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(222,12): warning C4101: “row”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(221,13): warning C4101: “res”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(250,7): warning C4101: “sql”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(252,12): warning C4101: “row”: 未引用的局部变量
+D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\通讯录管理系统\database.cpp(251,13): warning C4101: “res”: 未引用的局部变量
+  通讯录管理系统.vcxproj -> D:\VS\VS代码库！\项目\通讯录管理系统 - 副本\x64\Debug\通讯录管理系统.exe
